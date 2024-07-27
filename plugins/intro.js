@@ -31,20 +31,20 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 var surl = 'https://github.com/DEXTER-BOT-1/RCD-MD' // Source URL
 const number = '94789958225'
-var name = ' 𝗥𝗖𝗗 𝗧𝗘𝗖𝗛'
+var name = 'ＴＩＧＥＲ ＭＩＮＤ '
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/a789a7f2437c053ec829a.jpg'
+var image = 'https://telegra.ph/file/9407d0a5c79daa6424f20.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝗥𝗖𝗗 𝗠𝗗 𝗜𝗡𝗧𝗥𝗢  」
-│ Name      : 𝗥𝗖𝗗 
-│ Place       : 𝗦𝗥𝗜𝗟𝗔𝗡𝗞𝗔, 𝗔𝗠𝗣𝗔𝗥𝗔
+│       「 ᵀᴵᴳᴱᴿ ᴹᴵᴺᴰ 𝗜𝗡𝗧𝗥𝗢  」
+│ Name      : ᵀᴵᴳᴱᴿ ᴹᴵᴺᴰ  
+│ Place       : 𝗦𝗥𝗜𝗟𝗔𝗡𝗞𝗔
 │ Gender    :  𝐌𝐀𝐋𝐄
 │ Age          : 17
 │ education : 𝗡𝗨𝗟𝗟
 │ good vibes : 𝗡𝗨𝗟𝗟
-│ Phone     : wa.me/94789958225
-│ Youtube   : https://youtube.com/@dextertoola999?si=_KLYhXCdK8qxwOYP
-│ GitHub    : https://github.com/DEXTER-BOT-1 
+│ Phone     : wa.me/94753335072
+│ Youtube   : https://youtube.com/@white_tiger_yt2024?si=meZVOBihH16QXyB6
+│ GitHub    : https://github.com
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
