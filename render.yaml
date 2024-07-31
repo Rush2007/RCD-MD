@@ -1,6 +1,7 @@
-services:
-  - type: web
-    name: rcd-bot-md
-    env: docker
-    region: Frankfurt
-    plan: free
+   services:
+     - type: worker
+       name: whatsapp-bot
+       env: dockfile
+       plan: free
+       buildCommand: "npm install"
+       startCommand: "npm start"
